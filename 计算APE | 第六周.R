@@ -1,5 +1,5 @@
 x<-seq(-3,3,by=0.01)
-x
+
 plot(x,dnorm(x,mean=0,sd=1)) #画出正态分布
 plot(x,dnorm(x,mean=0,sd=1),type="l",lwd=3,col="red") 
 plot(x,dnorm(x,mean=0,sd=1),type="p") 
