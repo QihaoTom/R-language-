@@ -15,5 +15,5 @@ theme(panel.grid.major = element_blank(),
       panel.border = element_blank(),
       axis.ticks=element_blank(),
       axis.title = element_blank())+
-annotate('text',x=median(a),y=median(b),label='To Someone you like: Happy Birthday!',size=5)
+annotate('text',x=median(a),y=median(b),label='To Qihao&Han: Happy Valentines!',size=5)
   
